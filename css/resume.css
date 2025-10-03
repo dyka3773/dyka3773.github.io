@@ -141,3 +141,11 @@ aside > section {
   margin-left: var(--spacing-inline);
   color: #ccc;
 }
+
+ul {
+  font-size: 9.5pt;
+}
+
+ul li {
+  margin-bottom: 0.3rem;
+}
